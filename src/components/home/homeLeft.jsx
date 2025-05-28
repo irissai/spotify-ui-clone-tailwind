@@ -93,11 +93,7 @@ export default function homeLeft() {
     </div>
   )
 }
-  //  <div className="">
-  //                 <button>
-  //                   <span></span>
-  //                 </button>
-  //               </div>
+  
      <div className="">
                       <div className="">
                         <div className="">
