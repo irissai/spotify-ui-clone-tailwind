@@ -8,7 +8,10 @@
   font-weight: normal;
   font-style: normal;
 }
-
+* {
+    box-sizing: border-box;
+    /* font-family: font-spotify; */
+}
 /* #root {
   max-width: 1280px;
   margin: 0 auto;

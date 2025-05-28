@@ -12,6 +12,9 @@ module.exports = {
       css: {
         overflowWrap: 'anywhere',
       },
+       screens: {
+      xs: '480px',
+       }
     },
   },
   plugins: [],
